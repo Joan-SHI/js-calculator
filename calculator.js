@@ -34,7 +34,7 @@ $(document).ready(function(){
   function getTotal(){
    totalString=inputs.join("");
   $("#steps").html(eval(totalString));   }
-  $("a").on("click",function(){
+  $("button").on("click",function(){
     if(this.id==="deleteAll"){
       inputs=[""];
        update();}

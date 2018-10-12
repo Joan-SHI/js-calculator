@@ -1,6 +1,6 @@
 html,body{background-color:black;}
 
-h1,h2{color:white;font-family:Tangerine}
+h1,h2{color:white;font-family: Tangerine}
 
 #calcOutput{background-color:white;
   width:250px;height:75px;
@@ -27,3 +27,7 @@ h1,h2{color:white;font-family:Tangerine}
 a{margin:5px;
   width:2.6vw;
   height:2.6vw;}
+
+  button {
+    margin: 5px;
+  }
